@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
