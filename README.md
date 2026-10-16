@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
