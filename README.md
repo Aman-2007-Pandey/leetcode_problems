@@ -17,6 +17,7 @@
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
