@@ -24,6 +24,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0709-to-lower-case) |
+| [1678-goal-parser-interpretation](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
