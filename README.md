@@ -18,6 +18,7 @@
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2469-convert-the-temperature) |
 ## String
