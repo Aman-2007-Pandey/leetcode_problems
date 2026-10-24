@@ -21,6 +21,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
