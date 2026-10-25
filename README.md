@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0035-search-insert-position) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -43,4 +44,8 @@
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
