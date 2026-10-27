@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
