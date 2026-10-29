@@ -8,12 +8,14 @@
 | [0035-search-insert-position](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0344-reverse-string) |
 ## Math
 |  |
