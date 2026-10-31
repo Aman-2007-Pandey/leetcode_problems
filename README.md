@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
