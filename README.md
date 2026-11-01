@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
