@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -25,6 +26,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
