@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
@@ -21,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +77,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
