@@ -15,6 +15,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1816-truncate-sentence](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 | [0412-fizz-buzz](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/Aman-2007-Pandey/leetcode_problems/tree/master/1816-truncate-sentence) |
 ## Simulation
 |  |
 | ------- |
